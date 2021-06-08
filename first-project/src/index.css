@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bevan&display=swap");
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  border-bottom: 1px solid blue;
+}
+
+.navbar h1 {
+  color: rgb(0, 0, 0);
+  padding-right: 300px;
+  font-size: 40px;
+}
+
+.navbar a {
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: yellow;
+  background-color: black;
+}
+
+.links {
+  padding-left: 150px;
+}
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: rgba(3, 0, 207, 0.514);
+}
+
+.content li {
+  margin: 20px;
+}
+
+.content a {
+  text-decoration: none;
+  background-color: blanchedalmond;
+}
+
+.content2 {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: rgba(0, 167, 36, 0.514);
+}
+.content3 {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: rgba(187, 0, 0, 0.5);
+}
+
+.title {
+  text-align: center;
+}
